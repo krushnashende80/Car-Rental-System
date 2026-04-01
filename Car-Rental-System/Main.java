@@ -4,7 +4,7 @@ import java.util.Scanner;
    
 class Car {
     private String carId;   
-    private String brand;
+    private String brand;   
     private String model;
     private double basePricePerDay; 
     private boolean isAvailable;
